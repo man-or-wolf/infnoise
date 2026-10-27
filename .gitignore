@@ -44,3 +44,6 @@ fp-info-cache
 
 # Local project settings
 *.kicad_prl
+
+# KiCad hardware files are not tracked on this branch
+/kicad/
